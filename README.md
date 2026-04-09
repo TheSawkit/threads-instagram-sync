@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/TheSawkit/threads-instagram-sync)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Gagnez du temps en vous abonnant automatiquement sur Threads à toutes les personnes que vous suivez déjà sur Instagram, de manière fluide et sécurisée.**
+**Save time by automatically subscribing to Threads to everyone you already follow on Instagram, seamlessly and securely.**
 
 **[🇺🇸 English](#english) | [🇫🇷 Français](#français)**
 
