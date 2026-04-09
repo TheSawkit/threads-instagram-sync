@@ -26,7 +26,7 @@ Threads doesn't easily let you directly import your entire Instagram following l
 ### 🚀 Quick Install
 
 1. Install a UserScript manager on your web browser (e.g., [Tampermonkey](https://tampermonkey.net/) for Chrome/Firefox, or [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) for Safari).
-2. Click **[here to install the script](https://github.com/TheSawkit/threads-instagram-sync/raw/main/threads-follow.user.js)** (Update this link to your raw file).
+2. Click **[here to install the script](https://github.com/TheSawkit/threads-instagram-sync/releases/download/latest/Threads.Follow.All.Instagram.Following.user.js)**.
 3. Your extension will ask for confirmation. Click **Install**.
 
 ### 🛠 How to Use
@@ -54,7 +54,7 @@ Threads ne permet pas d'importer facilement d'un coup la totalité de vos abonne
 ### 🚀 Installation Rapide
 
 1. Installez une extension "UserScript" sur votre navigateur (ex: [Tampermonkey](https://tampermonkey.net/) sur Chrome/Firefox, ou [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) sur Safari).
-2. Cliquez **[ici pour installer le script](https://github.com/TheSawkit/threads-instagram-sync/raw/main/threads-follow.user.js)** (Pensez à mettre votre lien raw ici).
+2. Cliquez **[ici pour installer le script](https://github.com/TheSawkit/threads-instagram-sync/releases/download/latest/Threads.Follow.All.Instagram.Following.user.js)**.
 3. Votre extension va s'ouvrir. Cliquez sur **Installer**.
 
 ### 🛠 Mode d'emploi
